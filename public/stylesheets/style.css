@@ -1,0 +1,14 @@
+body {
+  padding: 15px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+background-color: whitesmoke;
+}
+image{
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+
+a {
+  color: #00B7FF;
+}
